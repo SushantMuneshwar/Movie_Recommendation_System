@@ -7,5 +7,5 @@ The movies are recommended based on the content of the movie you entered or sele
 The reviews of each individual movie given by the users are "web-scraped" from the IMDB website, and the reviews are subjected to sentiment analysis, where the model predicts whether the review is positive or negative.
 
 Dataset
-We have used MovieLens dataset in order to build movie recommendation engine.
-Put dataset inside input_data folder.
+- We have used TMDB 5000 Movie Dataset in order to build movie recommendation engine.
+- You can Download it from here.
