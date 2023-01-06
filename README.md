@@ -11,3 +11,9 @@ The reviews of each individual movie given by the users are "web-scraped" from t
 ## Data Description
 
 this dataset contain 4803 Rows and 20 Columns
+
+### Open Questions About the Data
+- There are some things we haven't had a chance to confirm about the new dataset. If you have any insights, please let us know in the forums!
+
+- Are the budgets and revenues all in US dollars? Do they consistently show the global revenues?
+This dataset hasn't yet gone through a data quality analysis. Can you find any obvious corrections? For example, in the IMDb version it was necessary to treat values of zero in the budget field as missing. Similar findings would be very helpful to your fellow Kagglers! (It's probably a good idea to keep treating zeros as missing, with the caveat that missing budgets much more likely to have been from small budget films in the first place).
